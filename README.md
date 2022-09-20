@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterPong;
 - 👀 I’m interested in Remote Sensing in Agricuture and AI techniques (ML, DL);
 - 🌱 I’m currently learning Satellite image segmentation and classification (such as crop recognition, field segmentation);
-- 💞️ I’m looking to collaborate on develop new algorithme in Agriculture Remote Sensing; 
+- 💞️ I’m looking to collaborate on develop new algorithm in Agriculture Remote Sensing; 
 - 📫 You can reach me by Email: smartyu0120@gmail.com.
 
 <!---
